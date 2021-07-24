@@ -138,6 +138,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-twitter-plugin
   - jekyll-email-protect
   - jekyll-github-metadata
   - jekyll-feed
