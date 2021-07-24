@@ -51,7 +51,11 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  // margin-left: 20%;
+  // margin-right: 20%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  // width: 60%;
   width: 100%;
 
   .address {
@@ -71,6 +75,36 @@ blockquote {
     .address {
       p { display: block; }
     }
+    img {
+      margin-left: 10%;
+      margin-right: 10%;
+      width: 80%;
+    }
+  }
+  .socialicons {
+    margin-top: 200px;
+  }
+  .post-header {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 576px) {
+  .profile {
+    img {
+      margin-left: 20%;
+      margin-right: 20%;
+      width: 60%;
+    }
+  }
+}
+
+@media (min-height: 800px) {
+  .socialicons {
+    margin-top: 200px;
+  }
+  .post-header {
+    margin-top: 100px;
   }
 }
 

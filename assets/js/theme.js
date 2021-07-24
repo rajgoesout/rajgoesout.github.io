@@ -40,8 +40,11 @@ let transTheme = () => {
 let initTheme = (theme) => {
   if (theme == null) {
     const userPref = window.matchMedia;
+    console.log("userPref", userPref)
     if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-        theme = 'dark';
+      theme = 'dark';
+    } else {
+      theme = 'light';
     }
   }
   setTheme(theme);
