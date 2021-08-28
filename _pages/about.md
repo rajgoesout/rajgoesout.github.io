@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: I'm currently building products on web 3.0 to help humanity reach the future faster.
+description: I'm building products on web 3.0 to help humanity reach the future faster.
 
 # profile:
 #   align: right
@@ -19,10 +19,12 @@ social: true # includes social icons at the bottom of the page
 
 My interests include cryptoeconomics, game theory, and product engineering. I like watching cricket, playing basketball, or cooking a dish to keep my sanity.
 
-I work at [BUIDL Labs](https://buidllabs.io), and will graduate from Jamia Hamdard University in fall 2021, majoring in Computer Science.
+<!-- I work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"},  -->
 
-<!-- - [resume](/assets/pdf/example_pdf.pdf){:target="\_blank"}
-- [projects](/projects) -->
+I graduated from Jamia Hamdard University in 2021 with a major in Computer Science, and currently work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"}.
+
+- [Resume](/assets/RajdeepBharati.pdf){:target="\_blank"}
+- [Projects](/projects)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
