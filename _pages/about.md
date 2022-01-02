@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-description: I'm building products on web 3.0 to help humanity reach the future faster.
+description: I'm building products on web3.0 to help humanity reach the future faster.
 
-# profile:
-#   align: right
-#   image: faceicon.png
+profile:
+  align: right
+  image: OBJKT%23613502.png
 #   address: >
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My interests include cryptoeconomics, game theory, and product engineering. I like watching cricket, playing basketball, or cooking a dish to keep my sanity.
+My interests include zkps, cryptoeconomics, game theory, and product engineering. I like watching cricket, playing basketball, or cooking a dish to keep my sanity.
 
 <!-- I work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"},  -->
 
-I graduated from Jamia Hamdard University in 2021 with a major in Computer Science, and currently work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"}.
+I graduated from Jamia Hamdard University in 2021 with a major in Computer Science, and currently work at [Find Signal Studio](https://twitter.com/findsignalHQ){:target="\_blank"}.
 
 - [Resume](/assets/RajdeepBharati.pdf){:target="\_blank"}
 - [Projects](/projects)
