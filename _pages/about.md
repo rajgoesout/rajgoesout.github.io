@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /
-description: I'm building products on web3.0 to help humanity reach the future faster.
+# description: I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something.
 
 profile:
   align: right
-  image: OBJKT%23613502.png
+  image: rajsquare.jpg
+  # image: rajfull.jpg
 #   address: >
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
@@ -17,14 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My interests include zkps, cryptoeconomics, game theory, and product engineering. I like watching cricket, playing basketball, or cooking a dish to keep my sanity.
+I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something.
+<!-- My interests include writing copy, software, . -->
+
+I've spent over 3 years working in crypto, and more writing open source software; all remotely.
 
 <!-- I work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"},  -->
 
-I graduated from Jamia Hamdard University in 2021 with a major in Computer Science, and currently work at [Find Signal Studio](https://twitter.com/findsignalHQ){:target="\_blank"}.
+To learn more about my career, skim over my [Résumé](/assets/Raj Resume.pdf){:target="\_blank"}.
 
-- [Resume](/assets/RajdeepBharati.pdf){:target="\_blank"}
-- [Projects](/projects)
+For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a>.
+
+<!-- - [Resume](/assets/Raj Resume.pdf){:target="\_blank"} -->
+<!-- - [Projects](/projects) -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

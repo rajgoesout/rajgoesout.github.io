@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Rajdeep
+first_name: Hi, I'm Raj
 # middle_name: R.
-last_name: Bharati
-email: rajdeepbharati13@gmail.com
+# last_name: B
+email: rajgoesout@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
@@ -49,10 +49,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: ImRajdeepB # your GitHub user name
+twitter_username: rajgoesout # your Twitter handle
+github_username: rajgoesout # your GitHub user name
+instagram_username: rajgoesout
 gitlab_username: # your GitLab user name
-twitter_username: ImRajdeepB # your Twitter handle
-linkedin_username: rajdeepbharati # your LinkedIn user name
+# linkedin_username: rajgoesout # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -68,7 +69,7 @@ dblp_url: # your DBLP profile url
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-X6JEGJL5J2 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
