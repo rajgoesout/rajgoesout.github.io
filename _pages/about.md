@@ -30,7 +30,7 @@ To dive into open source as a beginner, refer my [Playbook](https://rajgoesout.g
 
 To get started with blockchain development in 2024, follow my [Roadmap](https://rajgoesout.substack.com/p/blockchain-development-roadmap){:target="\_blank"}.
 
-To learn more about my career, skim over my [Résumé](/assets/Raj Resume.pdf){:target="\_blank"}. For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a> or <a href="https://calendly.com/rajgoesout/30min" {:target="\_blank"}>book a call</a>.
+To learn more about my career, skim over my [Résumé](/assets/Raj Resume.pdf){:target="\_blank"}. For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a> or [book a call](https://calendly.com/rajgoesout/30min){:target="\_blank"}.
 
 <!-- - [Resume](/assets/Raj Resume.pdf){:target="\_blank"} -->
 <!-- - [Projects](/projects) -->
