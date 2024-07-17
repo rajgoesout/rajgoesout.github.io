@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something.
+<!-- I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something. -->
+
+I'm a web3 researcher building [Adbase](https://x.com/adbasexyz){:target="\_blank"} and [Blink Studio](https://x.com/makeblinks){:target="\_blank"}.
 
 <!-- My interests include writing copy, software, . -->
 
