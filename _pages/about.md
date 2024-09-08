@@ -20,17 +20,17 @@ social: true # includes social icons at the bottom of the page
 
 <!-- I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something. -->
 
-I'm a web3 researcher building [Adbase](https://x.com/adbasexyz){:target="\_blank"} and [Blink Studio](https://x.com/makeblinks){:target="\_blank"}.
+I'm an independent researcher & engineer working in the web3 space.
 
-<!-- My interests include writing copy, software, . -->
+My interests include DeFi, Blockchain Interoperability, ZK Proofs, Backend, and Protocol Engineering.
 
-I've spent 4 years working in crypto, and more writing open source software; all remotely.
+<!-- I've spent over 4 years working in crypto, and more writing open source software; all remotely. -->
 
 <!-- I work at [BUIDL Labs](https://buidllabs.io){:target="\_blank"},  -->
 
-To dive into open source as a beginner, refer my [Playbook](https://rajgoesout.gumroad.com/l/gsoc){:target="\_blank"}.
+<!-- To dive into open source as a beginner, refer my [Playbook](https://rajgoesout.gumroad.com/l/gsoc){:target="\_blank"}. -->
 
-To get started with blockchain development in 2024, follow my [Roadmap](https://rajgoesout.substack.com/p/blockchain-development-roadmap){:target="\_blank"}.
+<!-- To get started with blockchain development in 2024, follow my [Roadmap](https://rajgoesout.substack.com/p/blockchain-development-roadmap){:target="\_blank"}. -->
 
 To learn more about my career, skim over my [Résumé](/assets/Raj Resume.pdf){:target="\_blank"}. For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a> or [book a call](https://calendly.com/rajgoesout/30min){:target="\_blank"}.
 
