@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- I [write](https://twitter.com/rajgoesout){:target="\_blank"} about travel, tech, and navigating life as a 20 something. -->
 
-I'm an independent researcher & engineer working in the web3 space.
+I'm an independent researcher & full-stack engineer working in the web3 space.
 
 My interests include DeFi, Blockchain Interoperability, ZK Proofs, Backend, and Protocol Engineering.
 
@@ -32,7 +32,7 @@ My interests include DeFi, Blockchain Interoperability, ZK Proofs, Backend, and 
 
 <!-- To get started with blockchain development in 2024, follow my [Roadmap](https://rajgoesout.substack.com/p/blockchain-development-roadmap){:target="\_blank"}. -->
 
-To learn more about my career, skim over my [Résumé](/assets/Raj Resume.pdf){:target="\_blank"}. For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a> or [book a call](https://calendly.com/rajgoesout/30min){:target="\_blank"}.
+To learn more about my career, skim over my [Résumé](/assets/RajResumeBlockchain.pdf){:target="\_blank"}. For work enquiries, write to me at <a href="mailto:rajgoesout@gmail.com">rajgoesout@gmail.com</a> or [book a call](https://calendly.com/rajgoesout/30min){:target="\_blank"}.
 
 <!-- - [Resume](/assets/Raj Resume.pdf){:target="\_blank"} -->
 <!-- - [Projects](/projects) -->
